@@ -1,4 +1,4 @@
-# Awesome IoT
+# Awesome IoT1
 
 <img src="iot-logo.png" align="right" width="100">
 
